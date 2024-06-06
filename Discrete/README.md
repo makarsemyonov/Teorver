@@ -13,7 +13,7 @@ make
 ```
 ./diceroll <number of rolls>
 ```
-You need to convey only number of dice rolls.
+You need to enter only number of dice rolls.
 
 ## Output information
 After the program finishes, columns with information will be displayed on the screen, namely: numbers of edges, the number of occurrences of specific edges and the calculated probability
